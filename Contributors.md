@@ -2700,6 +2700,7 @@
 - [idan424](https://github.com/idan424)
 - [Aman Raj](https://github.com/amanraj862)
 - [David Montgomery](https://github.com/davymont)
+- [Dawid Maron](https://github.com/marex33)
 - [Phillip Johnson](https://github.com/pjdesigns)
 - [Abner Palmeira](https://github.com/abnerpalmeira)
 - [Oguz](https://github.com/oguztecirlioglu)
